@@ -1,4 +1,4 @@
-import { Navbar, Sidebar } from "../../componentes/indexComponentes";
+import { Navbar, Sidebar, Carrusel } from "../../componentes/indexComponentes";
 
 const Inicio = () => {
     document.title = 'PetStore ● Inicio';
@@ -6,9 +6,7 @@ const Inicio = () => {
         <>
         <Navbar />
         <Sidebar />
-        <div className="container">
-            <h1>Inicio</h1>
-        </div>
+        <Carrusel />
         </>
     )
 }

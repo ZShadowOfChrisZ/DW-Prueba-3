@@ -5,7 +5,7 @@ import './Sidebar.css';
 
 const Sidebar = () => {
     const pagina = useLocation();
-    const [cerrado, setCerrado] = useState(false);
+    const [cerrado, setCerrado] = useState(true);
     const [activo, setActivo] = useState('/');
     useEffect(() => {
         setActivo(pagina.pathname);

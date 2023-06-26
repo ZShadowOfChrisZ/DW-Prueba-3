@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cf163c3.css",
-    "main.js": "/static/js/main.1b1562d1.js",
+    "main.css": "/static/css/main.3c1e1818.css",
+    "main.js": "/static/js/main.c31c720b.js",
+    "static/media/carrusel-3.jpg": "/static/media/carrusel-3.ce2990a38693b2eddef9.jpg",
+    "static/media/carrusel-1.jpg": "/static/media/carrusel-1.241356e3fcdbb42108b1.jpg",
+    "static/media/carrusel-5.jpg": "/static/media/carrusel-5.653b655c00e1be1fa46f.jpg",
+    "static/media/carrusel-4.jpg": "/static/media/carrusel-4.b5e4a205f85680bac400.jpg",
+    "static/media/carrusel-2.jpg": "/static/media/carrusel-2.4ef72278b395bdeb53c9.jpg",
     "static/media/PetStoreLogo.png": "/static/media/PetStoreLogo.65d1deb3929486531956.png",
     "index.html": "/index.html",
-    "main.5cf163c3.css.map": "/static/css/main.5cf163c3.css.map",
-    "main.1b1562d1.js.map": "/static/js/main.1b1562d1.js.map"
+    "main.3c1e1818.css.map": "/static/css/main.3c1e1818.css.map",
+    "main.c31c720b.js.map": "/static/js/main.c31c720b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cf163c3.css",
-    "static/js/main.1b1562d1.js"
+    "static/css/main.3c1e1818.css",
+    "static/js/main.c31c720b.js"
   ]
 }

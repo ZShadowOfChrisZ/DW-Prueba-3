@@ -73,3 +73,8 @@ aside {
 .bordeActivo {
     border-left: 5px solid #9443d6;
 }
+@media (max-width: 1100px) {
+    * {
+        zoom: 60%;
+    }
+}

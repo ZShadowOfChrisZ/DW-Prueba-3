@@ -24,11 +24,11 @@ aside {
     right: -50px;
 }
 .headerSidebar {
-    margin-left: 5px;
+    margin-left: 0px;
     border: 1px solid rgb(216, 215, 215);
 }
 .bodySidebar {
-    margin-left: 5px;
+    margin-left: 0px;
     border: 1px solid rgb(216, 215, 215);
     height: fit-content;
     height: 90%;
